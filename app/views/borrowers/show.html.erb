@@ -1,0 +1,6 @@
+<!-- Borrower landing page -->
+<p>Name: <%= @borrower.first_name %> <%= @borrower.last_name %></p>
+<p>Amount Need: <%= number_to_currency(@borrower.money) %></p>
+<p>Amount Raised: <%= number_to_currency(@borrower.raised) %></p>
+
+<h2>List of people who lent you money:</h2>

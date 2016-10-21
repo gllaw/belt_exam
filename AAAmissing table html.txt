@@ -1,0 +1,48 @@
+The rest of the Lender landing page (show.html.erb — lenders)——————————————————————
+
+<!-- <table> -->
+	<!-- <tr> -->
+		<!-- <th>Name</th>
+		<th>Need Money For</th>
+		<th>Reason For Loan</th>
+		<th>Amount Needed</th>
+		<th>Amount Raised</th>
+		<th>Action</th> -->
+	<!-- </tr> -->
+	<!-- <% @borrowers.each #do |x|%> -->
+	<!-- <tr> -->
+		<!-- <td><%= x.first_name %> <%= x.last_name %></td>
+		<td><%= x.purpose %></td>
+		<td><%= x.description %></td>
+		<td><%= x.money %></td>
+		<td><%= x.raised %></td> -->
+		<!-- <td>STUFF GOES HERE</td> -->
+	<!-- </tr> -->
+	<!-- <% #end %> -->
+<!-- </table> -->
+
+<!-- <h2>List of people you lent money to:</h2>
+<table>
+	<thead>
+	<tr>
+		<th>Name</th>
+		<th>Need Money For</th>
+		<th>Reason For Loan</th>
+		<th>Amount Needed</th>
+		<th>Amount Raised</th>
+		<th>Amount Left</th>
+	</tr>
+	</thead>
+	<tbody> -->
+	<!-- <% @yourpeople.each #do |x|%> -->
+	<!-- <tr> -->
+		<!-- <th><%= x.first_name %> <%= x.last_name %></th>
+		<th><%= x.purpose %></th>
+		<th><%= x.description %></th>
+		<th><%= x.money %></th>
+		<th><%= x.raised %></th> -->
+		<!-- <th>STUFF GOES HERE</th> -->
+	<!-- </tr> -->
+	<!-- <% #end %> -->
+	<!-- </tbody> -->
+<!-- </table> -->
